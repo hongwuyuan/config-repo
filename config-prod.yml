@@ -1,1 +1,2 @@
-prod
+config:
+  info: prod barcth,version-1

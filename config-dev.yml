@@ -1,1 +1,2 @@
-dev
+config:
+  info: dev barcth,version-1
